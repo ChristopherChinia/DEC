@@ -1,0 +1,18 @@
+.cards{
+    display: flex;
+    width: 70%;
+    flex-wrap: wrap;
+    margin: 20%;
+}
+.card{
+    margin: 10px;
+}
+footer{
+    background-color: black;
+    color: crimson;
+    text-align: center;
+    height: 70px;
+}
+footer>h2{ 
+    padding: 10px;
+}
